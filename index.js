@@ -1,3 +1,15 @@
+
+
+
+
+
+
+
+
+
+
+
+
 const names =["Guadalupe", "Ollie","Aki"];
 const messages = [];
 
@@ -14,4 +26,7 @@ function countDown(number){
         number --;
     }
 }
+
+
+
 
